@@ -1,0 +1,15 @@
+{
+  "repo": "seedance2.5-seedance-2.5-api-ko",
+  "model": "seedance-2.5",
+  "display": "Seedance 2.5",
+  "variant": "model-ko",
+  "snapshot": "2026-09-24",
+  "unit": "usd_per_second",
+  "tiers": {
+    "480P-input": 0.0576,
+    "480P": 0.09608,
+    "720P-input": 0.1296,
+    "default": 0.216
+  },
+  "source": "https://apimart.ai/en/pricing"
+}
